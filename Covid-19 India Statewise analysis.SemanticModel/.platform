@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "Covid-19 India Statewise analysis"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "f28df9bf-6eb0-495d-8a37-0142a18dfa3d"
+  }
+}
